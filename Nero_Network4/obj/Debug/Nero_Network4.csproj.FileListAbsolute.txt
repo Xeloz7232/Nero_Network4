@@ -1,0 +1,10 @@
+C:\Users\kutin\OneDrive\Документы\Учёба\Last Chance\6 семестр\Нейронки\Nero_Network4\Nero_Network4\bin\Debug\Nero_Network4.exe.config
+C:\Users\kutin\OneDrive\Документы\Учёба\Last Chance\6 семестр\Нейронки\Nero_Network4\Nero_Network4\bin\Debug\Nero_Network4.exe
+C:\Users\kutin\OneDrive\Документы\Учёба\Last Chance\6 семестр\Нейронки\Nero_Network4\Nero_Network4\bin\Debug\Nero_Network4.pdb
+C:\Users\kutin\OneDrive\Документы\Учёба\Last Chance\6 семестр\Нейронки\Nero_Network4\Nero_Network4\obj\Debug\Nero_Network4.csproj.AssemblyReference.cache
+C:\Users\kutin\OneDrive\Документы\Учёба\Last Chance\6 семестр\Нейронки\Nero_Network4\Nero_Network4\obj\Debug\Nero_Network4.Form1.resources
+C:\Users\kutin\OneDrive\Документы\Учёба\Last Chance\6 семестр\Нейронки\Nero_Network4\Nero_Network4\obj\Debug\Nero_Network4.Properties.Resources.resources
+C:\Users\kutin\OneDrive\Документы\Учёба\Last Chance\6 семестр\Нейронки\Nero_Network4\Nero_Network4\obj\Debug\Nero_Network4.csproj.GenerateResource.cache
+C:\Users\kutin\OneDrive\Документы\Учёба\Last Chance\6 семестр\Нейронки\Nero_Network4\Nero_Network4\obj\Debug\Nero_Network4.csproj.CoreCompileInputs.cache
+C:\Users\kutin\OneDrive\Документы\Учёба\Last Chance\6 семестр\Нейронки\Nero_Network4\Nero_Network4\obj\Debug\Nero_Network4.exe
+C:\Users\kutin\OneDrive\Документы\Учёба\Last Chance\6 семестр\Нейронки\Nero_Network4\Nero_Network4\obj\Debug\Nero_Network4.pdb
